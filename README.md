@@ -23,9 +23,10 @@ With built-in file hash tracking, the Super Script Compiler ensures only modifie
 ## Installation
 
 1. **Download the Binary**  
-   Download the latest binary from [the provided link](#) and place it in your desired directory.
+   Download the latest binary from [the provided link](https://github.com/Reconfigure-In/SuperScript/releases/tag/Alpha) and place it in your desired directory.
+   Link: [github.com/Reconfigure-In/SuperScript/releases/tag/Alpha](https://github.com/Reconfigure-In/SuperScript/releases/tag/Alpha)
 
-2. **Make the Binary Executable**  
+3. **Make the Binary Executable**  
    Ensure the binary has executable permissions by running:
 
    ```bash
